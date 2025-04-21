@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Usage
 To run the Climate Change Dashboard, execute the following command:
-streamlit run app.py
+streamlit run climate_dashboard.py
 This will start a local server, and you can view the dashboard in your web browser at http://localhost:8501.
 
 ## Data
