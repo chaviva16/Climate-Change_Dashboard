@@ -1,6 +1,12 @@
 # Climate Change Dashboard 🌎
 
-Welcome to the Climate Change Dashboard! This interactive web application allows users to explore climate trends and make predictions about future climate conditions using machine learning models.
+Welcome to the Climate Change Dashboard! 
+This interactive web application allows users to explore climate trends and make predictions about future climate conditions using machine learning models .
+
+## 🌐 Live Demo
+
+You can try the app here: 👉 https://climate-changes-dashboard.streamlit.app/
+
 
 ## Table of Contents
 
